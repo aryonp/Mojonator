@@ -1,6 +1,6 @@
-<h2>MOJONATOR</h2>
+# MOJONATOR
 
-Project Resistance
+## Project Resistance
 
 King Mojo Jojo is colonizing Singapore. You are part of the resistance to free Singapore from the cruel Mojo Jojo. Sadly, you don’t know how to raise arms.
 But, you’re savvy in programming.
@@ -23,15 +23,10 @@ Your code should extend the Google Map example from here: https://developers.goo
 The raid will be starting in 4 days. You have 2 days to finish this, so that the resistance leader can have another 2 days to prepare.
 
 
-<h2>Authors</h2>
-Aryo N. Pratama
+## Authors
 
-http://twitter.com/aryonp<br/>
-http://github.com/aryonp
+* **Aryo Pratama** - (https://github.com/aryonp)
 
-<br/>
-<h2>Copyright and license</h2>
+## License
 
-Copyright 2013 Aryo N. Pratama
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
